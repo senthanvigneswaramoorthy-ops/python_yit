@@ -1,0 +1,16 @@
+x=12
+y=3
+a=(x+y)
+b=(x-y)
+c=(x*y)
+d=(x/y)
+e=(x//y)
+f=(x%y)
+g=(x**y)
+print("addition is:",a)
+print("subraction is:",b)
+print("multiplication is:",c)
+print("division is:",d)
+print("floor divisionis:",e)
+print("modulas is:",f)
+print("exponentiation is:",g)
