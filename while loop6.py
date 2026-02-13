@@ -4,4 +4,4 @@ while is_bool:
     print("Senthan")
     x+=1
     if x==11:
-        is_bool=False
+        is_bool=False             
