@@ -1,5 +1,5 @@
 def printMyName():
-    print("My Name is Seelan")
+    print("My Name is senthan")
 printMyName()
 printMyName()
 printMyName()
