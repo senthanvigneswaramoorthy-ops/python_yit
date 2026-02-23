@@ -1,0 +1,10 @@
+a={1,2,3,4,5}
+b={3,4,5,6,7}
+c=a-b
+print(c)
+d=b-a
+print(d)
+e=a.symmetric_difference(b)
+print(e)
+f=a^b
+print(f)
