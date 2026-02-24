@@ -1,0 +1,16 @@
+x=[
+	[10,20,30],
+	[40,70,80],
+	[25,35,16]
+   ]
+print(x)
+print(type(x))
+print(x[0][0])
+print(x[0][1])
+print(x[0][2])
+print(x[1][0])
+print(x[1][1])
+print(x[1][1])
+print(x[2][0])
+print(x[2][1])
+print(x[2][2])
